@@ -8,7 +8,7 @@
 
 ## Hospital Analytics Overview
 
-![Hospital Analytics Dashboard](hospital_analytics_dashboard.png)
+![Hospital Analytics Dashboard](hospital_dashboard.png)
 
 The dashboard provides an executive-level view of hospital activity through KPIs and interactive analysis of patient encounters, encounter types, payer coverage, patient demographics, geographic distribution, and healthcare costs.
 
